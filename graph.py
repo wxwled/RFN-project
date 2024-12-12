@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep  2 19:18:08 2020
-This is the data structure of the graph
+
 @author: Administrator
 """
 import numpy as np
